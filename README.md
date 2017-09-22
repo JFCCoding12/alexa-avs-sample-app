@@ -30,6 +30,10 @@ Or you can prototype with these third-party dev kits -
 ---
 
 ## What's new?  
+**Setember,22 2017:**
+
+*updates*
+The sample app now contains updated pom.xml file when taking build make sure your VLC and JDK versions 
 
 **July 6, 2017:**
 
