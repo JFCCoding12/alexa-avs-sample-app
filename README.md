@@ -28,8 +28,18 @@ Or you can prototype with these third-party dev kits -
 * [Raspberry Pi + Conexant 2-Mic Development Kit for Amazon AVS](../../wiki/Conexant2Mic-Raspberry-Pi)  
 
 ---
+**September ,22 2017**
+The sample app will give you an full overview about alexa.
+Some developers facing problem while making build  with maven here i am providing when you running your clint,
+your VLC and JDK architecture should be same and your are congigured all your environement variables.
+
+Here is link for updated pom.xml file.
+[https://github.com/balaraju1278/alexa-avs-sample-app/blob/master/samples/javaclient/updated_pom.xml](url)
 
 ## What's new?  
+
+
+
 
 **July 6, 2017:**
 
